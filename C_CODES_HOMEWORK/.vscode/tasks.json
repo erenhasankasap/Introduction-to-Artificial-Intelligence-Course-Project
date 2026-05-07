@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Project",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "-o", "${workspaceFolder}/C_CODES_HOMEWORK/output",
+                "${workspaceFolder}/C_CODES_HOMEWORK/GRAPH_SEARCH.c",
+                "${workspaceFolder}/C_CODES_HOMEWORK/Standart_Search.c",
+                "${workspaceFolder}/C_CODES_HOMEWORK/SpecificToProblem.c",
+                "${workspaceFolder}/C_CODES_HOMEWORK/HashTable.c",
+                "-lm",
+                "-Wall"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}
