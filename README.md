@@ -2,7 +2,6 @@
 
 > **Introduction to Artificial Intelligence** | Spring 2026  
 > Yıldız Technical University · Mathematical Engineering  
-> **Group 13:** Eren Hasan Kasap, Mehmet Erdem, Bahadır Ay, Kübra Yeşilova, Görkem Yeşilyurt, Zeynep Naz Tuzcu
 
 ---
 
